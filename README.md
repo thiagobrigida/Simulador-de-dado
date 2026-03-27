@@ -1,1 +1,1 @@
-Simples simulador de dado em TypeScrip
+Simples simulador de dado em TypeScript
